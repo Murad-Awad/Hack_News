@@ -1,1 +1,2 @@
 # Hack_News
+Standard Node.js App. To test out go into the directory and type "node app.js" on terminal/node.js command prompt, git bash, etc. Defaults to the search engine you would get if the algorithm determined you were left-leaning and more akin to democrats, the code for analyzing a person's viewpoints is still there, but due to the Cambridge Analytica scandal, Facebook deprecated the viewing of posts (I believe) and political views through the API even with a user giving permission to do so.
